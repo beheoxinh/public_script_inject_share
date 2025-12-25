@@ -58,7 +58,7 @@
     display: block;
     position: relative;
     opacity: 0.3;
-    background: none;
+    background: url(https://cdn3.iconfinder.com/data/icons/picons-social/57/06-facebook-64.png) center center no-repeat rgb(44, 65, 102) !important;
     box-sizing: border-box;
     transform: scale(var(--ggs,1));
     width: 18px;
